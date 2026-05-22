@@ -13,4 +13,4 @@
 ## How to Run
 1. Clone repo:
    ```bash
-   git clone https://github.com/your-username/agriculture-crop-prediction-india.git
+   git clone https://github.com/peeyus17/agriculture-crop-prediction-india.git
